@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "68szoasr4t3GutZbKWmSoQtVX9RE5/9D5VDEXOx0inA2q4/Qd6hQZf7sT9KK4P+qYWw9LALJ9XMObnJuPFbLpA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ahmed\\Desktop\\A_UNI\\Devops & Security\\Project\\EMS\\EMS\\EMS.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.Sqlite (>= 8.0.0)' for 'net8.0-windows7.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
